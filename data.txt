@@ -1,0 +1,16 @@
+
+admin,pays,Honduras,00:00:58,1
+admin,pays,Slovenia,00:02:14,5
+root,pays,Nepal,00:01:13,1
+admin,sport,bobsleigh,00:00:57,2
+admin,pays,Anguilla,00:01:08,0
+admin,pays,Colombia,00:01:16,2
+admin,pays,Gibraltar,00:01:02,3
+admin,pays,Germany,00:01:40,0
+admin,pays,Libya,00:00:52,3
+admin,pays,Belize,00:01:35,2
+
+root,animal,Anteater,00:01:00,3
+admin,animal,Elephant,00:00:28,2
+admin,animal,Clam,00:00:11,3
+admin,animal,Bee,00:00:08,3

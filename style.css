@@ -1,0 +1,101 @@
+h1,h2{
+
+    text-align: center;
+     margin: 20px 0 ;color: rgb(219, 27, 219); 
+     text-decoration: underline;
+}
+input[type=text]{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+   }
+   label{
+    font-size: x-large;
+    padding: 20PX;
+}
+.btn{ background-color: rgb(146, 106, 184);
+    color: black;
+    padding: 14px 20px;
+    margin: 15px 190px;
+    border: none;
+    cursor: pointer;
+    width: 30%;
+    text-align: center;
+    font-size: large
+}
+/*style tabl*/
+table{
+    border-collapse: collapse;
+    width: 60%;
+    margin-bottom: 20px;
+    margin: auto;
+  }
+th, td{
+    padding: 8px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+  }
+th {
+    background-color: #f2f2f2;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  td:first-child {
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #e6f3ff;
+  }
+  
+  /* Ajout de styles pour les colonnes  */
+  td:nth-child(1) {
+    text-align: left;
+  }
+  
+  td:nth-child(2) {
+    text-align: center;
+  }
+  
+  td:nth-child(3) {
+    text-align: center;
+  }
+  
+  td:nth-child(4) {
+    text-align: center;
+  }
+  
+  td:nth-child(5) {
+    text-align: center;
+  }
+/*style tabl*/
+
+.letr{
+
+background-color:  #b62296;
+font-size: xx-large;
+;
+
+}
+ .body{
+    text-align: center;
+    font-size: large;
+    margin: 40PX;
+ }   
+ .btndisabled{
+background-color: rgb(179, 95, 190);
+color: black;
+font-size: x-large;
+ }
+ span{
+    color:#b62296;
+ }
